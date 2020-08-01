@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    ROBIN n jhhjnj
+                    REX
                 </div>
 
                 <div class="links">
